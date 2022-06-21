@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "recexcavAAR"]
+	path = recexcavAAR
+	url = https://github.com/isaakiel/recexcavaar
+	shallow = true
+	registered = true
