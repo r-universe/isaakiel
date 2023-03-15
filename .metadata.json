@@ -1,5 +1,9 @@
 [
   {
+    "package": "oxcAAR",
+    "oncran": true
+  },
+  {
     "package": "recexcavAAR",
     "oncran": true
   }
